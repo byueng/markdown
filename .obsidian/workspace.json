@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Garbarge Collector(GC).md",
+                "file": "NL2SQL/Coarse and Fine-grained Confidence Calibration of LLM-basedText-to-SQL Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbarge Collector(GC)"
+              "title": "Coarse and Fine-grained Confidence Calibration of LLM-basedText-to-SQL Generation"
             }
           }
         ],
@@ -58,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -155,6 +155,16 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "d163bb33af3602d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -165,29 +175,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "6f6fd260147d2380",
+  "active": "3877a6220ef776b2",
   "lastOpenFiles": [
-    "Rust/Garbarge Collector(GC).md",
-    "test.md",
+    "数据库/难点、重点.md",
+    "数据库/名词解释.md",
+    "流畅的python/鸭子类型(坑).md",
+    "流畅的python/解包.md",
+    "流畅的python/装饰器与闭包.md",
+    "流畅的python/引用.md",
+    "流畅的python/序列的内置函数们.md",
+    "流畅的python/对象式函数.md",
+    "流畅的python/函数参数类型判别.md",
+    "流畅的python/tips.md",
+    "流畅的python/python风格设计.md",
+    "装机/oh-my-posh.md",
+    "装机/python环境部署.md",
+    "装机/博客搭建.md",
+    "阿巴阿巴/关于历史.md",
+    "Hacknet段子收录.md",
+    "English note.md",
     "Pasted image 20241113203745.png",
+    "test.md",
+    "代办清单.md",
+    "清单.md",
+    "obsidian扩展/图床(废文).md",
+    "NL2SQL/Blind Backdoors.md",
+    "NL2SQL/Coarse and Fine-grained Confidence Calibration of LLM-basedText-to-SQL Generation.md",
     "NL2SQL/NL2SQL Overview.md",
     "NL2SQL/SmBoP.md",
-    "NL2SQL/Coarse and Fine-grained Confidence Calibration of LLM-basedText-to-SQL Generation.md",
+    "Rust/Garbarge Collector(GC).md",
     "Rust",
-    "().md",
     "Pasted image 20241107183203.png",
     "Pasted image 20241107183147.png",
-    "未命名 1.md",
-    "To Do.md",
-    "NL2SQL",
-    "English note.md"
+    "NL2SQL"
   ]
 }
